@@ -1,0 +1,9 @@
+This is my first javascript so comments and improvments are welcome!
+
+I use Wells Fargo and a big problem when paying bills is that I cannot
+get the amount that I am about to pay until after I paid. This is totally
+ridiculous and Wells Fargo does not seem to care at all about adding
+this feature. So I did! :D
+
+script.js is meant to be used with Chrome/Tampermonkey but
+a few modifications should allow it to run on Firefox/GreaseMonkey.
