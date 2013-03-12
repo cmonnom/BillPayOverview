@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Bill Pay Overview Total Amount
-// @namespace  http://use.i.E.your.homepage/
+// @namespace  https://github.com/cmonnom/BillPayOverview
 // @version    0.2
 // @description  Extension to the Wells Fargo page Bill Overview 
 // (https://billpay.wellsfargo.com/billpay/application/mca/Overview)
